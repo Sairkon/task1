@@ -1,0 +1,87 @@
+.a2{
+    color: green;
+}
+.a3{
+    color:red;
+}
+.a4{
+    color: cornflowerblue !important;
+}
+
+.box{
+    width: 500px;
+    height: 400px;
+    border: 10px solid black;
+    display: flex;
+    /* align-items: flex-start; */
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    /* align-content: space-between; */
+    background: black;
+}
+
+.item{
+    width: 150px;
+    height: 100px;
+    border: 3px solid red;
+    margin: auto;
+    /* margin: 30px 0 0 100px; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* padding: 20px 40px 60px 10px; */
+    box-sizing: border-box;
+    font-size: 23px;
+    color: white;
+    background: black ;
+}
+.bg1{
+    background: crimson;
+    width: 156px;
+    height: 107px;
+    
+}
+.bg2{
+    background: black;
+    width: 155px;
+    height: 106px;
+    
+}
+.bg3{
+    background:blanchedalmond ;
+    width: 156px;
+    height: 107px;
+}
+.bg4 a{
+    text-decoration: none;
+    color: white;
+    padding: 100px 40px  60px;
+}
+   
+.bg5 a{
+   
+    color: wi;
+    padding: 30px 40px;
+    text-decoration:none ;
+}
+.bg6a {
+    
+    color: black;
+    padding: 30px 40px;
+    text-decoration: none;
+}
+.bg7{
+    background: yellow;
+    font-size: 17px;
+    color: black;
+}
+.bg8{
+    background: yellow;
+    font-size: 17px;
+    color: black;
+}
+.bg9 {
+    background: yellow;
+    font-size: 17px;
+    color: black;
+    
+}
